@@ -958,7 +958,7 @@ black box, "don't drop him down a coal-mine. That's all I say."
 I wondered at the time why the grey man's pale face should flush so
 crimson, and why my mother should whisper angrily:
 
-"Flow can you be so wicked, Fanny? How dare you say such a thing?"
+"How can you be so wicked, Fanny? How dare you say such a thing?"
 
 "I only said 'don't drop him down a coal-mine,'" returned my aunt,
 apparently much surprised; "you don't want to drop him down a coal-mine,
@@ -1346,7 +1346,7 @@ worshipped about here."
 "I hardly know what to make of him," said my mother; "I suppose I had
 better go out and get some chops;" which she did.
 
-Susan went, as sober as a judge, on Friday, as the saying is, her great
+Susan went, as sober as a judge on Friday, as the saying is, her great
 anxiety being to get out of the house before the doctor returned. The
 doctor himself arrived true to his time, and I lay awake--for no human
 being ever slept or felt he wanted to sleep while Dr. Washburn was
@@ -1564,7 +1564,7 @@ particular branches of study and of sport I was to give my preference,
 speaking always with such catching confidence that I came to regard my
 sojourn in this brick and mortar prison as only a question of months.
 
-One day, talking of this future, and laughing as we walked briskly.
+One day, talking of this future, and laughing as we walked briskly,
 through the shrill streets, I told him the words my mother had
 said--long ago, as it seemed to me, for life is as a stone rolling
 down-hill, and moves but slowly at first; she and I sitting on the moss
@@ -1771,7 +1771,7 @@ side-combs.
 "But I mean if you were me," I explained.
 
 "Drat the child!" said my aunt; "how do I know what he wants if he don't
-know himself. Idiot!"
+know himself? Idiot!"
 
 The shop windows into which I stared, my nose glued to the pane! The
 things I asked the price of! The things I made up my mind to buy and
@@ -3254,7 +3254,7 @@ grumbles every time at the distance."
 Hasluck should have come so far out of his way. There must surely be
 plenty of solicitors in the City."
 
-"He had heard of me," explained my father. "A curiou[s] old
+"He had heard of me," explained my father. "A curious old
 fellow--likes his own way of doing things. It's not everyone who would
 care for him as a client. But I seem able to manage him."
 
@@ -4019,7 +4019,7 @@ She laid her hand caressingly on my shoulder, drawing me a little closer
 to her; and it remained there.
 
 "It was very kind of you," said my mother, "I would do anything to give
-him pleasure, anything-I could. He knows that. He understands."
+him pleasure, anything--I could. He knows that. He understands."
 
 My mother's hand, I knew, was seeking mine, but I was angry and would
 not see; and without another word she left the room.
@@ -4542,7 +4542,7 @@ might think. The petty cares and worries concerning matters not worth
 a moment's thought, the mean desires and fears with which we disfigure
 ourselves, fell from them. There came to them broader thought, a wider
 charity, a deeper pity. Their love grew greater even than their needs,
-overflowing towards at things. Sometimes, recalling these months, it
+overflowing towards all things. Sometimes, recalling these months, it
 has seemed to me that we make a mistake seeking to keep Death, God's
 go-between, ever from our thoughts. Is it not closing the door to a
 friend who would help us would we let him (for who knows life so well),
@@ -4568,7 +4568,7 @@ disagreeable."
 "They'd be daft if they didn't," interrupted my aunt. "Of course you
 don't really mean it," continued my mother.
 
-"Stuff and nonsense," snorted my aunt; "does she think I'm a fool. I
+"Stuff and nonsense," snorted my aunt; "does she think I'm a fool? I
 like being disagreeable. I like to see 'em squirming."
 
 My mother laughed.
@@ -7852,7 +7852,7 @@ every eye." One found it necessary to fortify oneself with perusal of
 underlined extracts from ancient journals, much thumbed and creased,
 thoughtfully lent to one for the purpose. Since those days Fate had
 woven round her a mantle of depression. She was now a faded, watery-eyed
-little woman, prone on the slightest provocation to sit down suddenly On
+little woman, prone on the slightest provocation to sit down suddenly on
 the nearest chair and at once commence a history of her troubles. Quite
 unconscious of this failing, it was an idea of hers that she was an
 exceptionally cheerful person.
@@ -8034,8 +8034,8 @@ they're trying to palm themselves off on yer, they'll persuade you
 there isn't such another article in all the market. When they've got yer
 order--ah, then yer find out what they're really made of. And you take
 it from me, 'Omer Junior, most of 'em are put together cheap. Bah!
-it sickens me sometimes to read the way you paper-stainers talk about
-'em-angels, goddesses, fairies! They've just been getting at yer. You're
+it sickens me sometimes to read the way you paper-stainers talk about 'em
+--angels, goddesses, fairies! They've just been getting at yer. You're
 giving 'em just the price they're asking without examining the article.
 Girls ain't a special make, like what you seem to think 'em. We're all
 turned out of the same old slop shop."
@@ -8577,7 +8577,7 @@ The O'Kelly had passed on to Sullivan's "Sweethearts," then in its first
 popularity.
 
      "Oh, love for a year--a week--a day!
-     But oh for the love that loves al-wa-ay[s]!"
+     But oh for the love that loves al-wa-ays!"
 
 Miss Sellars' languishing eyes were fixed upon me; Miss Sellars' red
 lips pouted and twitched; Miss Sellars' white bosom rose and fell.
@@ -9047,7 +9047,7 @@ you'll be all right in the morning. So long."
 I followed his advice regarding the lemons, and finding it correct, went
 to the office next morning as usual. Lott & Co., in consideration of my
 agreeing to a deduction of two shillings on the week's salary, allowed
-himself to overlook the matter. I had intended acting on Jarman' S
+himself to overlook the matter. I had intended acting on Jarman's
 advice, to call upon the O'Kelly at his address of respectability in
 Hampstead that evening, and had posted him a note saying I was coming.
 Before leaving the office, however, I received a reply to the effect
@@ -9849,7 +9849,7 @@ lady, whose appearance suggested experience.
 "I once asked the author," observed a weary-looking gentleman, speaking
 from a corner. "His reply was: 'Well, if you had asked me at the
 beginning of the rehearsals I might have been able to tell you, but
-damned if I could now![']"
+damned if I could now!'"
 
 "It wouldn't surprise me," observed a good-looking gentleman in a velvet
 coat, "if there occurred somewhere in the proceedings a drinking chorus
@@ -9859,7 +9859,7 @@ for male voices."
 heroine will confide to us her love troubles, which will interest us and
 excite us."
 
-The door at the further end of the room opened and a name was cal[l]ed.
+The door at the further end of the room opened and a name was called.
 An elderly lady rose and went out.
 
 "Poor old Gertie!" remarked sympathetically the thin lady with the
@@ -10916,7 +10916,7 @@ She did not reply to my kindly meant enquiry. Instead, her hand swept
 through the air in the form of an ample semi-circle. It terminated on
 my ear. It was not a small hand; it was not a soft hand; it was not
 that sort of hand. The sound of the contact rang through the room like a
-pistol shot; I beard it with my other ear. I sprang at her, and catching
+pistol shot; I heard it with my other ear. I sprang at her, and catching
 her before she had recovered her equilibrium, kissed her. I did not kiss
 her because I wanted to. I kissed her because I could not box her ears
 back in return, which I should have preferred doing. I kissed her,
@@ -12322,7 +12322,7 @@ had."
 "Not that I mean I don't like her as it is, ye understand," corrected
 himself the O'Kelly a second time. "I respect that woman--I cannot tell
 ye, me boy, how much I respect her. Ye don't know her. There was one
-morning, about a month ago. That woman-she's down at six every morning,
+morning, about a month ago. That woman--she's down at six every morning,
 summer and winter; we have prayers at half-past. I was a trifle late
 meself: it was never me strong point, as ye know, early rising. Seven
 o'clock struck; she didn't appear, and I thought she had overslept
@@ -13658,7 +13658,7 @@ share of the disgrace. My recital ended, I sat staring down the long,
 shadow-freckled way, and for awhile there was no sound but the chirping
 of the sparrows.
 
-Then behind me I beard a smothered laugh. It was impossible to imagine
+Then behind me I heard a smothered laugh. It was impossible to imagine
 it could come from Norah. I turned quickly to see who had stolen upon
 us. It was Norah who was laughing; though to do her justice she was
 trying to suppress it, holding her handkerchief to her face. It was of
@@ -13805,7 +13805,7 @@ up and goes off, Heaven knows where! comes back when she thinks she
 will: a somewhat unreliable young person. To my literary labours I found
 it necessary to add journalism. I lacked Dan's magnificent assurance.
 Fate never befriends the nervous. Had I burst into the editorial
-sanctum, the editor most surely would have been out if in, would have
+sanctum, the editor most surely would have been out; if in, would have
 been a man of short ways, would have seen to it that I went out quickly.
 But the idea was not to be thought of; Robert Macaire himself in my one
 coat would have been diffident, apologetic. I joined the ranks of the
@@ -14521,7 +14521,7 @@ eagerness had become his motive force. At first he had talked
 boastingly: Had I seen the _Post_ for last Monday, the _Court Circular_
 for the week before? Had I read that Barbara had danced with the Crown
 Prince, that the Count and Countess Huescar had been entertaining a
-Grand Duke? What [duplicated line of text] I think of that! and such
+Grand Duke? What did I think of that! and such
 like. Was not money master of the world? Ay, and the nobs should be made
 to acknowledge it!
 
@@ -15195,7 +15195,7 @@ look in.
 I met the low comedian on his way to his dressing-room. He shook me
 warmly by the hand.
 
-"Well," he said, "we're pulling them in. I was right, you see, Give me
+"Well," he said, "we're pulling them in. I was right, you see, 'Give me
 plenty of opportunity.' That's what I told you, didn't I? Come and see
 the piece. I think you will agree with me that I have done you justice."
 
